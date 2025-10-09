@@ -17,6 +17,7 @@ const CustomHookForm = () => {
              <input onChange={emailOnChange} type="email" name="email" placeholder='Your Email' />
              <br />
              <input onChange={passwordOnChange} type="password" name="password" placeholder='password' />
+             <br />
              <input type="submit" value="Submit" />
            </form>
         </div>
