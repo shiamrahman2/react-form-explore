@@ -13,8 +13,8 @@ function App() {
          <h1>Explore Form</h1>
          {/* <SimpleForm></SimpleForm> */}
          {/* <FormAction></FormAction> */}
-         {/* <ControlledField></ControlledField> */}
-         <UnControlledField></UnControlledField>
+         <ControlledField></ControlledField>
+         {/* <UnControlledField></UnControlledField> */}
     </>
   )
 }
